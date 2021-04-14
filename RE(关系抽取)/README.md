@@ -1,6 +1,10 @@
 # RE(Relation Extraction)
 
-关系抽取作为NER的下游任务，主要目的是抽取出文本中实体对之间的语义关系。
+关系抽取（RE）作为命名实体识别（NER）的联合任务，主要目的是抽取出文本中实体对之间的语义关系。
+
+## paper list
+
+[awesome-relation-extraction](https://github.com/roomylee/awesome-relation-extraction)
 
 目前，实验室主要从事RE的子任务之一——OpenRE（开放域关系抽取），由16级张学长和18级楼学长参与。
 
