@@ -1,7 +1,6 @@
 ## CCAi Public Repositories
 
 - **仓库归属于**：CCAi (City College Artificial Intelligence)
-- **指导老师**：孙霖 博士 （sunl@zucc.edu.cn）
 - **建立目的**：本仓库是CCAi 历届学子们参与过的研究课题介绍, 欢迎实验室未来的学习学妹们了解，也欢迎其他任何感兴趣的同学和我们讨论。
 
 ## 研究课题：
